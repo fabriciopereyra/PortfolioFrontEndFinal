@@ -1,15 +1,15 @@
 export const environment = {
   firebase: {
-    projectId: 'portfoliobackendmodulo8-1',
-    appId: '1:241638522862:web:d589b11e73fbbba06358ff',
-    storageBucket: 'portfoliobackendmodulo8-1.appspot.com',
+    projectId: 'portfoliofrontendfinal',
+    appId: '1:750529658843:web:9363244ea9828955f271fe',
+    storageBucket: 'portfoliofrontendfinal.appspot.com',
     locationId: 'southamerica-east1',
-    apiKey: 'AIzaSyC4dcZpUHLOmszkD8t21zYkgEqRKtJZACI',
-    authDomain: 'portfoliobackendmodulo8-1.firebaseapp.com',
-    messagingSenderId: '241638522862',
+    apiKey: 'AIzaSyDnJI78py7KTnD5iyDWRYge9FndtEeJUbE',
+    authDomain: 'portfoliofrontendfinal.firebaseapp.com',
+    messagingSenderId: '750529658843',
   },
-  production: false,
+  production: true,
 
-  URL: 'http://localhost:8080/',
-  //URL: '',
+  //URL: 'http://localhost:8080/',
+  URL: 'https://portfoliobackendfinal.onrender.com/',
 };

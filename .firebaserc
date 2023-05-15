@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "portfoliobackendmodulo8-1"
-  }
+    "default": "portfoliofrontendfinal",
+    "portfoliofrontendfinal": "portfoliofrontendfinal"
+  },
+  "targets": {},
+  "etags": {}
 }
